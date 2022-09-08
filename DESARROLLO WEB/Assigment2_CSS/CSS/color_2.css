@@ -1,0 +1,135 @@
+div{
+    width: 200px;
+    height: 200px;
+    /*display: inline-block;*/
+}
+
+.top-container{
+    width: 150px;
+    height: 68px;
+    background-color: darkblue;
+    border: 7px black solid;
+    position: absolute;
+    top: 212px;
+    left: 45px;
+}
+.sqr-container{
+    width: 512px;
+    height: 297px;
+    background-color: transparent;
+    border: 7px black solid;
+    position: absolute;
+
+    
+
+}
+.middle-container{
+    width: 150px;
+    height: 150px;
+    background-color: darkred;
+    border: 7px black solid;
+    position: absolute;
+    top: 55px;
+    left: 265px;
+
+}
+
+.yellow-container{
+    width: 120px;
+    height: 40px;
+    background-color: darkgoldenrod;
+    border: 7px black solid;
+    position: absolute;
+    top: 8px;
+    left: 400px;
+
+}
+
+.wh-container1{
+    width: 153px;
+    height: 40px;
+    background-color: white;
+    border: 7px black solid;
+    position: absolute;
+    top: 8px;
+    left: 263px;
+
+}
+
+
+.wh-container2{
+    width: 52px;
+    height: 150px;
+    background-color: white;
+    border: 7px black solid;
+    border-left: 5px black solid;
+    border-right: 5px black solid;
+    position: absolute;
+    top: 55px;
+    left:205px;
+
+}
+.wh-container3{
+    width: 150px;
+    height: 197px;
+    background-color: white;
+    border: 7px black solid;
+    position: absolute;
+    top: 8px;
+    left: 45px;
+
+}
+.wh-container4{
+    width: 95px;
+    height: 93px;
+    background-color: white;
+    border: 7px black solid;
+    position: absolute;
+    top: 212px;
+    left: 425px;
+
+}
+
+.wh-container5{
+    width: 53px;
+    height: 67px;
+    background-color: white;
+    border: 7px black solid;
+    border-top: 5px black solid;
+    position: absolute;
+    top: 215px;
+    left: 202px;
+}
+
+.wh-container6{
+    width: 149px;
+    height: 17px;
+    background-color: white;
+    border: 7px black solid;
+    border-top: 5px black solid;
+    position: absolute;
+    top: 290px;
+    left: 45px;
+}
+.wh-container7{
+    width: 53px;
+    height: 17px;
+    background-color: white;
+    border: 7px black solid;
+    border-top: 5px black solid;
+    position: absolute;
+    top: 290px;
+    left: 202px;
+}
+
+
+.wh-container8{
+    width: 30px;
+    height: 65px;
+    background-color: white;
+    border: 7px black solid;
+
+    position: absolute;
+    top: 213px;
+    left: 8px;
+}

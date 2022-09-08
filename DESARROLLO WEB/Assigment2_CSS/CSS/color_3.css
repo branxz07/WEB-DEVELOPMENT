@@ -1,0 +1,54 @@
+div{
+    width: 200px;
+    height: 200px;
+    /*display: inline-block;*/
+}
+
+.top-container{
+    background-color: blue;
+
+}
+.middle-container{
+    background-color: red;
+    position: relative;
+    bottom: 200px;
+    left: 400px;
+
+}
+
+.bottom-container{
+    background-color: yellow;
+    position: relative;
+    bottom: 400px;
+    left: 200px;
+}
+
+
+/*
+div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.top-container{
+    background-color: blue;
+    border-style: solid;
+    border-width: 10px;
+    padding: 20px;
+}
+.middle-container{
+    background-color: red;
+    border: 20px solid black;
+    /*margin-left: 260px; *//* border of 10px twice beocause of ach side left  right + 20x of padding + 200 px*/
+    /*display: none; */
+    /*visibility: hidden;
+}
+
+.bottom-container{
+    background-color: yellow;
+    border: 10px solid black;
+    /*margin-left: 500px;
+}
+
+*/
