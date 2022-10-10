@@ -1,0 +1,17 @@
+{
+  "name": "superheroes",
+  "version": "0.0.1",
+  "description": "superheroes node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "superheroe1"
+  ],
+  "author": "Brandon",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
